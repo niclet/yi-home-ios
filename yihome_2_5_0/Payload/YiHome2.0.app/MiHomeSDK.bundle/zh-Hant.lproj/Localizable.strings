@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  MiHome
+
+  Created by wayne on 14/10/17.
+  Copyright (c) 2014年 小米移动软件. All rights reserved.
+*/
+
+/**
+ * 定义字符串key时请遵循标准格式：
+ * "页面.类型.名称"
+ */
+
+/**
+ *  Common
+ */
+"Cancel" = "取消";
+"Ok" = "確定";
+"help" = "幫助";
+"done" = "完成";
+"delete" = "刪除";
+"retry" = "重試";
+"back" = "返回";
+"save" = "保存";
+"network.unconnect" = "網路聯接不可用";
+"processing" = "正在處理中...";
+
+"device" = "設備";
+
+//快连
+"deviceselect.title" = "選擇您要聯接的設備";
+"deviceselect.tips_new" = "自動發現設備";
+"deviceselect.tips_normal" = "手動聯接設備";
+"devcnnt.welcome.title" = "發現";
+"devcnnt.welcome.detail" = "接通電源，設備黃燈閃爍時點擊下一步";
+"devcnnt.wificonfirm.title" = "聯接WLAN";
+"devcnnt.wificonfirm.detail" = "暫時無法使用5G WLAN，如果您使用的是5G WLAN或者您想使用其他帳號聯接，請切換WLAN";
+"devcnnt.wificonfirm.placeholder.wifipwd" = "輸入密碼";
+"devcnnt.wificonfirm.wifisetting" = "WLAN 設置";
+"devcnnt.wificonfirm.nopassword" = "您確定當前的WLAN沒有密碼嗎？";
+"devcnnt.nowifi.title" = "您目前沒有設置WLAN";
+"devcnnt.nowifi.detail" = "請去WLAN設置頁面進行聯接設置";
+"devcnnt.changewifi.title" = "切換WLAN";
+"devcnnt.changewifi.detail" = "請去WLAN設置頁面進行聯接設置，暫時無法使用5G WLAN聯接設備";
+
+"devcnnt.progress.title" = "聯接";
+"devcnnt.progress.detail.try" = "正在努力為您聯接中，取消本次聯接";
+"devcnnt.progress.detail.tryhard" = "正在使勁為您聯接中，取消本次聯接";
+"devcnnt.progress.detail.trybest" = "正在拼盡全力為您聯接中，取消本次聯接";
+"devcnnt.progress.detail.killme" = "正在拼老命為您聯接中，取消本次聯接";
+"devcnnt.progress.detail.finish" = "已經聯接%d個設備";
+"devcnnt.success.title" = "聯接成功";
+"devcnnt.success.detail" = "恭喜，已成功聯接%d個設備";
+"devcnnt.fail.title" = "聯接失敗";
+"devcnnt.fail.detail" = "點擊查看視頻教程";
+"devcnnt.button.prev" = "上一步";
+"devcnnt.button.next" = "下一步";
+
+"devcnnt.bind.title" = "安全校驗";
+"devcnnt.bind.detail" = "請點擊設備上的任意按鍵完成聯接";
+"devcnnt.bind.button" = "設備按鍵";
+"devcnnt.bind.success.detail" = "本次聯接用時%d秒";
+
+"deviceconnect.tips.nowifi" = "您目前沒有設置WLAN";
+"deviceconnect.tips.gotosyswifi" = "請去WLAN設置頁面進行聯接設置";
+"deviceconnect.tips.switchwifi" = "切換WLAN";
+"deviceconnect.tips.gotosyswifi" = "請去WLAN設置頁面進行聯接設置，暫時無法使用5G WLAN聯接設備";
+
+"deviceconnect.tips.5g" = "暫時無法使用5G WLAN聯接設備";
+"deviceconnect.button.wifisetdone" = "我已經聯接上了";
+"deviceconnect.tips.connectresult" = "已經聯接%d個設備，完成聯接";
+"deviceconnect.tips.connectsucceed" = "恭喜，已成功聯接%d個設備";
+"deviceconnect.tips.connectfail" = "無法聯接智能設備";

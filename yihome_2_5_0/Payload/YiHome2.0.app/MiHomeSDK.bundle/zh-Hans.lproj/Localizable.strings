@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  MiHome
+
+  Created by wayne on 14/10/17.
+  Copyright (c) 2014年 小米移动软件. All rights reserved.
+*/
+
+/**
+ * 定义字符串key时请遵循标准格式：
+ * "页面.类型.名称"
+ */
+/**
+ *  Common
+ */
+"Cancel" = "取消";
+"Ok" = "确定";
+"help" = "帮助";
+"done" = "完成";
+"delete" = "删除";
+"retry" = "重试";
+"back" = "返回";
+"save" = "保存";
+"network.unconnect" = "网络连接不可用";
+"processing" = "正在处理中...";
+
+"device" = "设备";
+
+//快连
+"deviceselect.title" = "选择您要连接的设备";
+"deviceselect.tips_new" = "自动发现设备";
+"deviceselect.tips_normal" = "手动连接设备";
+"devcnnt.welcome.title" = "发现";
+"devcnnt.welcome.detail" = "接通电源，设备黄灯闪烁时点击下一步";
+"devcnnt.wificonfirm.title" = "连接WLAN";
+"devcnnt.wificonfirm.detail" = "暂时无法使用5G WLAN，如果您使用的是5G WLAN或者您想使用其他账号连接，请切换WLAN";
+"devcnnt.wificonfirm.placeholder.wifipwd" = "输入密码";
+"devcnnt.wificonfirm.wifisetting" = "WLAN 设置";
+"devcnnt.wificonfirm.nopassword" = "您确定当前的WLAN没有密码吗？";
+"devcnnt.nowifi.title" = "您目前没有设置WLAN";
+"devcnnt.nowifi.detail" = "请去WLAN设置页面进行连接设置";
+"devcnnt.changewifi.title" = "切换WLAN";
+"devcnnt.changewifi.detail" = "请去WLAN设置页面进行连接设置，暂时无法使用5G WLAN连接设备";
+
+"devcnnt.progress.title" = "连接";
+"devcnnt.progress.detail.try" = "正在努力为您连接中，取消本次连接";
+"devcnnt.progress.detail.tryhard" = "正在使劲为您连接中，取消本次连接";
+"devcnnt.progress.detail.trybest" = "正在拼尽全力为您连接中，取消本次连接";
+"devcnnt.progress.detail.killme" = "正在拼老命为您连接中，取消本次连接";
+"devcnnt.progress.detail.finish" = "已经连接%d个设备";
+"devcnnt.success.title" = "连接成功";
+"devcnnt.success.detail" = "恭喜，已成功连接%d个设备";
+"devcnnt.fail.title" = "连接失败";
+"devcnnt.fail.detail" = "点击查看视频教程";
+"devcnnt.button.prev" = "上一步";
+"devcnnt.button.next" = "下一步";
+
+"devcnnt.bind.title" = "安全校验";
+"devcnnt.bind.detail" = "请点击设备上的任意按键完成连接";
+"devcnnt.bind.button" = "设备按键";
+"devcnnt.bind.success.detail" = "本次连接用时%d秒";
+
+"deviceconnect.tips.nowifi" = "您目前没有设置WLAN";
+"deviceconnect.tips.gotosyswifi" = "请去WLAN设置页面进行连接设置";
+"deviceconnect.tips.switchwifi" = "切换WLAN";
+"deviceconnect.tips.gotosyswifi" = "请去WLAN设置页面进行连接设置，暂时无法使用5G WLAN连接设备";
+
+"deviceconnect.tips.5g" = "暂时无法使用5G WLAN连接设备";
+"deviceconnect.button.wifisetdone" = "我已经连接上了";
+"deviceconnect.tips.connectresult" = "已经连接%d个设备，完成连接";
+"deviceconnect.tips.connectsucceed" = "恭喜，已成功连接%d个设备";
+"deviceconnect.tips.connectfail" = "无法连接智能设备";

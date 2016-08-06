@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  MiHome
+
+  Created by wayne on 14/10/17.
+  Copyright (c) 2014年 小米移动软件. All rights reserved.
+*/
+
+/**
+ * 定义字符串key时请遵循标准格式：
+ * "页面.类型.名称"
+ */
+
+/**
+ *  Common
+ */
+"Cancel" = "Cancel";
+"Ok" = "Confirm";
+"help" = "Help";
+"done" = "Done";
+"delete" = "Delete";
+"retry" = "Retry";
+"back" = "Back";
+"save" = "Save";
+"network.unconnect" = "network connection is unavailable";
+"processing" = "processing...";
+
+"device" = "Device";
+
+//快连
+"deviceselect.title" = "Select the device you want to connect";
+"deviceselect.tips_new" = "Automatic device discovery";
+"deviceselect.tips_normal" = "Connect device manually";
+"devcnnt.welcome.title" = "Search ";
+"devcnnt.welcome.detail" = "Power on device, click Next when yellow light flashing";
+"devcnnt.wificonfirm.title" = "Connect WLAN";
+"devcnnt.wificonfirm.detail" = "5G WLAN is not supported yet, if you are using 5G WLAN, please switch";
+"devcnnt.wificonfirm.placeholder.wifipwd" = "Input password";
+"devcnnt.wificonfirm.wifisetting" = "WLAN setting";
+"devcnnt.wificonfirm.nopassword" = "Are you sure no password for current WLAN?";
+"devcnnt.nowifi.title" = "You have NOT set WLAN";
+"devcnnt.nowifi.detail" = "Please set WLAN at WLAN setting page";
+"devcnnt.changewifi.title" = "Switch WLAN";
+"devcnnt.changewifi.detail" = "5G WLAN is not supported yet, please set WLAN at WLAN setting page";
+
+"devcnnt.progress.title" = "Connect ";
+"devcnnt.progress.detail.try" = "Connecting, cancel";
+"devcnnt.progress.detail.tryhard" = "Connecting hard, cancel";
+"devcnnt.progress.detail.trybest" = "Connecting very hard, cancel";
+"devcnnt.progress.detail.killme" = "Connecting as hard as possible, cancel";
+"devcnnt.progress.detail.finish" = "%d devices connected";
+"devcnnt.success.title" = "Connect succeed";
+"devcnnt.success.detail" = "Congratulations, %d devices connected";
+"devcnnt.fail.title" = "Connect failed";
+"devcnnt.fail.detail" = "Click to watch a video tutorial";
+"devcnnt.button.prev" = "Previous";
+"devcnnt.button.next" = "Next";
+
+"devcnnt.bind.title" = "Security check";
+"devcnnt.bind.detail" = "Please click any button on device to complete bind";
+"devcnnt.bind.button" = "Device button";
+"devcnnt.bind.success.detail" = "%d seconds elapsed for current connection";
+
+"deviceconnect.button.wifisetdone" = "WLAN connected";
+"deviceconnect.tips.connectsucceed" = "Congratulations, %d devices connected";
+"deviceconnect.tips.connectfail" = "No device connected";
