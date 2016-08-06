@@ -14,7 +14,7 @@ Apple claims that an application can't be decrypted, but fortunately, this is no
 
 Thanks to jailbreak and [Clutch](https://github.com/KJCracks/Clutch), we can get the unencrypted binary of an application.
 
-Since my iPhone 5s is under iOS 9.3.2 and doesn't support jailbreak, I bought an old iPhone 4 under iOS 7.1.2. It supports jailbreak, and let me retrieve the unencrypted binary of the Chinese application. Since Clutch can only decrypt an application while running, I only got the armv7 binary. This binary works also on newer devices, but as soon as Apple drops armv7 support from new devices, it may not work anymore.
+Since my iPhone 5s is under iOS 9.3.2 and doesn't support jailbreak, I bought an old iPhone 4 under iOS 7.1.2. It supports jailbreak, and lets me retrieve the unencrypted binary of the Chinese application. Since Clutch can only decrypt an application while running, I only got the armv7 binary. This binary works also on newer devices, but as soon as Apple drops armv7 support from new devices, it may not work anymore.
 
 As soon as we have the unencrypted binary, we can add international language support. Even if the international application doesn't support Yi Camera V2, it includes all the required translation files and we can add them to the Chinese application.
 
