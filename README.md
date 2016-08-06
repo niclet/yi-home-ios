@@ -24,6 +24,7 @@ As soon as we have the unencrypted binary, we can add international language sup
 * Italian (it.lproj)
 * Korean (ko.lproj)
 * Traditional Chinese (zh-Hant.lproj)
+
 Since the French translation is neither full nor totally correct, I personnaly remove it from package to use English on my French device.
 
 The last step consists in resigning the application. I own a developer certificate but don't want to use it for such hack. Apple now supports free certificate for testing, and I succeeded in resigning the application with such certificate.
