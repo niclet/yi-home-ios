@@ -37,7 +37,7 @@ Please look at following tutorial to setup a correct certificate.
 [Tutorial](https://github.com/niclet/yi-home-ios/raw/master/Tutorial.mp4)
 </video>
 
-Pay attention to the bundle identifier you choose in the project options, this will be the required parameter to resign the application.
+Pay attention to the bundle identifier you choose in the project options, this parameter will be required to resign the application.
 
 ![Alt text](BundleIdentifier.png?raw=true "Bundle Identifier")
 
