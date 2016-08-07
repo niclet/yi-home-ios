@@ -52,3 +52,7 @@ Where &lt;BundleIdentifier&gt; is the one you choose during XCode Project creati
 Finally, you can push the newly signed application to your device from XCode/Devices management tool.
 
 Please note that on iOS 9 and above, you may have to accept the new certificate on your device from Settings/General/Profiles
+
+Unfortunately, such certificates are expiring after 7 days, so you will have to do all these steps once a week, unless you buy a real developer certificate.
+
+-- To be continued --
