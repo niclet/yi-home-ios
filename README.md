@@ -33,7 +33,7 @@ Unfortunately, this signature process must be done for each device, and so you w
 
 Please look at following tutorial to setup a correct certificate.
 
-<video src="https://github.com/niclet/yi-home-ios/raw/master/Tutorial.mp4" controls>
+<video src="https://github.com/niclet/yi-home-ios/raw/master/Tutorial.mp4" controls markdown="1">
 Your browser does not implement html5 video.
 </video>
 
