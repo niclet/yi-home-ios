@@ -31,5 +31,11 @@ The last step consists in resigning the application. I own a developer certifica
 
 Unfortunately, this signature process must be done for each device, and so you will have to own a real Mac (or a Hackintosh) with XCode to do it on your side.
 
+Please look at following tutorial to setup a correct certificate.
+
+<video src="" controls>
+Your browser does not implement html5 video.
+</ video>
+
 -- To be continued --
 
