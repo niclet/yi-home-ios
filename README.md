@@ -41,4 +41,14 @@ Pay attention to the bundle identifier you choose in the project options, this p
 
 ![Alt text](BundleIdentifier.png?raw=true "Bundle Identifier")
 
--- To be continued --
+Now, open Terminal, go inside this repository clone, and run:
+
+	./Resign.sh <BundleIdentifier>
+	
+Where &lt;BundleIdentifier&gt; is the one you choose during XCode Project creation. In my case, I run:
+
+	./Resign.sh com.niclet.yihome
+
+Finally, you can push the newly signed application to your device from XCode/Devices management tool.
+
+Please note that on iOS 9 and above, you may have to accept the new certificate on your device from Settings/General/Profiles
