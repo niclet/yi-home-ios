@@ -57,4 +57,4 @@ Please note that on iOS 9 and above, you may have to accept the new certificate 
 
 Unfortunately, such certificates are expiring after 7 days, so you will have to do all these steps once a week, unless you buy a real developer certificate.
 
-<img src="Screenshot_01.png" alt="News" style="max-width: 30%;"/>  <img src="Screenshot_02.png" alt="News" style="max-width: 30%;"/>  <img src="Screenshot_03.png" alt="News" style="max-width: 30%;"/>
+<img src="Screenshot_01.png" alt="News" width="30%"/>  <img src="Screenshot_02.png" alt="News" width="30%"/>  <img src="Screenshot_03.png" alt="News" width="30%"/>
