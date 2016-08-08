@@ -37,6 +37,8 @@ Please look at following tutorial to setup a correct certificate.
 [Tutorial](https://github.com/niclet/yi-home-ios/raw/master/Tutorial.mp4)
 </video>
 
+(Update: you need to run this little project on your device to make sure it will accept the certificate)
+
 Pay attention to the bundle identifier you choose in the project options, this parameter will be required to resign the application.
 
 ![Alt text](BundleIdentifier.png?raw=true "Bundle Identifier")
@@ -54,5 +56,3 @@ Finally, you can push the newly signed application to your device from XCode/Dev
 Please note that on iOS 9 and above, you may have to accept the new certificate on your device from Settings/General/Profiles
 
 Unfortunately, such certificates are expiring after 7 days, so you will have to do all these steps once a week, unless you buy a real developer certificate.
-
--- To be continued --
